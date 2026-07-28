@@ -90,17 +90,6 @@
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rithvik4400&theme=tokyonight"/>
 
 </p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithvik4400&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
 
 ## 🤝 Connect With Me
